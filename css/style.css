@@ -1,0 +1,49 @@
+/* article css*/
+.lorem {
+  margin: 0;
+  padding: 5px;
+  background-color: lightgray;
+}
+.lorem, .ipsum {
+  margin: 10px;
+  padding: 5px;
+}
+
+.ipsum {
+  background: white;
+}
+
+.ipsum , {
+  margin: 4px;
+  font-size: 90%;
+}
+/* aside css*/
+aside {
+  width: 38%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: #e7d1d1;
+}
+/*button css*/
+.button{
+  width: ;
+  color: white;
+  background-color: #6aff09e8;
+  border: none;
+}
+.button:hover{
+  background-color: #e7d1d1;
+  color: black;
+}
+/*cite tag css*/
+.wil{
+  color: black;
+  text-decoration: none;
+}
+.wil:hover{
+  font-size: 150%;
+}
+
+
